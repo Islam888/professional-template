@@ -92,6 +92,19 @@ a.brand {
 .txt-beige-shadow {
   color: #d6d6c2;
 }
+.emerald:hover {
+  background: #0037fc;
+  cursor: pointer;
+}
+
+.emerald-border:hover {
+  border: 1px solid #0037fc !important;
+}
+.emerald:hover a{
+  text-decoration: none;
+  color: #d6d6c2;
+}
+
 
 /**test**/
 
